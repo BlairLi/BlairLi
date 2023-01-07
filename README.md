@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domghost666@gmail.com)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:18yl259@queensu.ca)
 
-<!-- ![Yucan's GitHub overview](https://github.com/KnlnKS/KnlnKS/blob/main/generated/overview.svg) -->
 
-![My user statistics](images/userstats.svg)
+![My user statistics](images/userstats.svg)(https://github.com/cicirello/user-statistician)
 
 ### About Me 👦
 
-- 🌱 I’m currently learning: .
+- 🌱 I’m currently learning: HCI.
 - 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love Levis Vintage Clothing 501 1947 and play guitar
 - 👯 I’m looking to collaborate with any developers!
@@ -34,8 +33,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
 <!-- ### LeetCode Stats
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark" width="400"/>
+<a href="https://github.com//leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=&theme=dark" width="400"/>
 </a> -->
 
 
