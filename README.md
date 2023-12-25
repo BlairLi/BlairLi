@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love Levis Vintage Clothing 501 1947 and play guitar
 - 👯 I’m looking to collaborate with any developers!
-- 📫 How to reach me: 1579193739@qq.com
+- 📫 How to reach me: yucanli128@gmail.com
 - 😄 Pronouns: he/him
 
 <!-- ### LeetCode Stats
