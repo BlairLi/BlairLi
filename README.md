@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:18yl259@queensu.ca)
 
 
-![My user statistics](images/userstats.svg)(https://github.com/cicirello/user-statistician)
+![My user statistics](images/userstats.svg)
 
 ### About Me 👦
 
