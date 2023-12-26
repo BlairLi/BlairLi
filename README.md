@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hello there 👋, I'm Yucan Li - aka Blair
 
-[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://knlnks.github.io/resume/Kunalan_Kevin_Subagaran_Resume.pdf)
+[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://github.com/BlairLi/BlairLi/blob/main/YucanLi-resume.pdf)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yucan-li-5313a5228/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yucanli128@gmail.com)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:18yl259@queensu.ca)
