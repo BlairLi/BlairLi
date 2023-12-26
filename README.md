@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yucanli128@gmail.com)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:18yl259@queensu.ca)
 
+**Below are projects I've done (✨ means important)**
+
+| Fields                  | Experiences                                         | Languages/Tools                                    |
+| ----------------------- | --------------------------------------------------- | -------------------------------------------------- |
+| Full Stack              | - ✨[Data Explorer](https://github.com/BlairLi/ICELab_Explorer), Web-based Real-time Data Explorer <br />- [Smart Fridge](https://github.com/BlairLi/SmartFridge), Simple UI for a Fridge|- React, Node.js, Express.js<br />- React, Javascript |
+| Machine Learning        | ✨[MiniTorch](https://github.com/BlairLi/MiniTorch), Mini PyTorch for machine learning | Python, PyTorch |     
 
 ![My user statistics](images/userstats.svg)
 
